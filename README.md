@@ -1,5 +1,7 @@
 # Homebrew Bundle
 
+> This is a fork of Homebrew Bundle created at the point when support for macOS Big Sur (11) was removed, due to the change to using Ruby 3 for Homebrew.
+
 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask, Mac App Store, Whalebrew and Visual Studio Code.
 
 ## Requirements
