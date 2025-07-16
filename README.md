@@ -1,5 +1,8 @@
 # Homebrew Bundle
 
+> This is a fork of Homebrew Bundle created at the point when Bundle was merged into Homebrew itself and allows it to be used on older versions of
+> Homebrew like those that are compatible with macOS Monterey (12).
+
 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask, Mac App Store, Whalebrew and Visual Studio Code.
 
 ## Requirements
